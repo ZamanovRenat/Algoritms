@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	setlocale(LC_ALL, "Russian"); //Подключаем кирилицу
+	setlocale(LC_ALL, "Russian");
 	double a, b;
 	cout << "Введите Ваш вес в килограммах ";
 	cin >> a;

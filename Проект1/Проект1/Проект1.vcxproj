@@ -112,6 +112,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ChangeNumbers.cpp" />
+    <ClCompile Include="DIS.cpp" />
     <ClCompile Include="Max Number.cpp" />
     <ClCompile Include="ИМТ.cpp" />
   </ItemGroup>
